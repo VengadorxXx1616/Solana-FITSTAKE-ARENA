@@ -1,0 +1,7 @@
+echo "# Solana-FITSTAKE-ARENA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/VengadorxXx1616/Solana-FITSTAKE-ARENA.git
+git push -u origin main
